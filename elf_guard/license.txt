@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elf Guard
+* source:	https://sketchfab.com/3d-models/elf-guard-baea8e0f9730431083c584599ce9545e
+* author:	karta2939694 (https://sketchfab.com/karta2939694)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elf Guard" (https://sketchfab.com/3d-models/elf-guard-baea8e0f9730431083c584599ce9545e) by karta2939694 (https://sketchfab.com/karta2939694) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
